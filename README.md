@@ -1,8 +1,8 @@
 # JS Canvas Paint 🎨
 
-## [View Application Here]()
+## [View Application Here](https://js-canvas-paint.netlify.com/)
 
-![Canvas Paint Gif]( "Canvas Paint Gif")
+![Canvas Paint Gif](https://github.com/chrisstaudinger/JS-Canvas-Paint/blob/master/assets/images/paint.gif?raw=true "Canvas Paint Gif")
 
 ### Tech Stack
 
